@@ -1,4 +1,4 @@
-# HTwitt: a hadoop-based platform for analysis and visualization of streaming Reddit data
+# Hadoop-based platform for analysis and classification of streaming Reddit data
 
 ## Table of Contents
 - [Description](#description)
